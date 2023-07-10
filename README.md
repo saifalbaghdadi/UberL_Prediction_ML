@@ -1,2 +1,2 @@
-# Uber_ML_Prediction_With_Flask
+# Uber_Prediction_ML
 Uber ML Prediction With Flask
