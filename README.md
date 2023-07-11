@@ -23,7 +23,7 @@ After training the linear regression model we save the trained model in a pickle
 After training a model. It’s time to make the complete user-friendly web application to test our trained model. First, we import some necessary libraries then load the model using pickle again. We make a prediction function that takes input from the user and predicts the output
 
 ## Outputs:
-<img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/predict.png" width="600px" data-canonical- style="max-width: 250%">
+<img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/UberL_Prediction_ML/main/templates/Outputs.png" width="600px" data-canonical- style="max-width: 250%">
 
 ## Author
 ### SAIF MALKSHAHI
