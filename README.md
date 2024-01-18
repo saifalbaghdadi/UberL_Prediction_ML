@@ -27,4 +27,3 @@ After training a model. It’s time to make the complete user-friendly web appli
 
 ## Author
 ### SAIF MALKSHAHI
-
